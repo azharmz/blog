@@ -4,6 +4,7 @@ date: 2023-12-13T09:37:33+08:00
 draft: false
 ---
 
+Ini Azhar
 Pada pengumuman PIP Periode November 2023 kali ini terdapat 36 siswa Penerima PIP. 
 
 SK Pemberian (penerima lanjutan)    = 32 siswa (Tahap 250, 253, 289, 292, 312, 315, 327)
